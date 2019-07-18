@@ -1,0 +1,10 @@
+name: py-hacks
+channels:
+  - defaults
+dependencies:
+  - pip=19.1.1=py36_0
+  - python=3.6.8=haf84260_0
+  - setuptools=41.0.1=py36_0
+  - pip:
+    - flake8==3.7.8
+
